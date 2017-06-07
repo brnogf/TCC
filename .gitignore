@@ -1,3 +1,6 @@
 
 .classpath
 target/antrun/build-main.xml
+target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+.classpath
