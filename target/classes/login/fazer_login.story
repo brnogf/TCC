@@ -14,4 +14,3 @@ Scenario:  Usuário tenta fazer login, mas ocorre erro
 Given que o usuário acessa a tela de login
 When usuário informa credenciais válidas ('nouser','nopass') e clica em entrar
 Then o sistema oferece aviso 'erro' para o usuário
-
