@@ -1,6 +1,6 @@
 #org.jbehave.core.embedder.StoryManager
-#Wed Jun 07 10:43:34 BRT 2017
-login/fazer_login.story=2000
+#Wed Jun 07 14:30:28 BRT 2017
+login/fazer_login.story=0
 threads=1
-total=2000
-threadAverage=2000
+total=0
+threadAverage=0
